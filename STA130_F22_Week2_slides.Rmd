@@ -2,7 +2,7 @@
 title: 'Week 2: Data/Variable Types and ggplot'
 subtitle: 'and statistics (as Opposed to "Upper Case" Staistics)'
 author: "Scott Schwartz"
-date: "May 18, 2021"
+date: "September 19, 2021"
 output:
   beamer_presentation:
     theme: Pittsburgh
@@ -128,7 +128,7 @@ download.file(url = "https://github.com/allisonhorst/stats-illustrations/raw/mas
 |-|-|
 |[**Numerical/Quanitative**](https://github.com/allisonhorst/stats-illustrations#hello)|[**Categorical/Qualitative**](https://github.com/allisonhorst/stats-illustrations#hello)|
 |![Continuous & discrete data artwork by @allison_horst: https://github.com/allisonhorst/stats-illustrations#hello](images/continuous_discrete.png)|![Nominal, ordinal & binary data artwork by @allison_horst: https://github.com/allisonhorst/stats-illustrations#hello](images/nominal_ordinal_binary.png)|
-| What should these be called? | *Data* or *Variables*? |
+| What should these apply to? | *Data* or *Variables*? What's the difference?|
 
 ## Binary Data/Variables
 
